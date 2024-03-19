@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hi 👋 I'm Morgan.
+I'm just student devpeloper, *But on steroids?*
 
-<!--
-**sv64/sv64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Interests
+- Processor Design
+- Embedded OS & Firmware Design
+- Cryptography?
 
-Here are some ideas to get you started:
+### Contacts
+* **Home**: [morgan.kr](https://morgan.kr)
+* **Git**: [sv64](https://sv64.org)
+* **Blog**: [blog.morgan.kr](https://blog.morgan.kr)
+* **Telegram**: [@morgan9e](https://t.me/morgan9e)
+* **Mail**: [me@sv64.org](mailto:me@sv64.org) or [me@morgan.kr](mailto:me@morgan.kr)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills..?
+- C/C++ and Verilog
+- Python
+- Linux things..
+- Making boards and putting myself in cancer..
